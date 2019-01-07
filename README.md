@@ -38,4 +38,4 @@ Avec l'outil Nmap on exécute la commande :
  nmap -sn -PE 192.168.1.0/24
 192.168.1.0/24 est l'adresse réseau sur lequel je suis connecté actuellement.
 
-dsl il va manquer la deuxieme partie en duo mais j'ai pas pu la faire. J'èspère que tu me croiras.
+dsl il va manquer la deuxieme partie en duo mais j'ai pas pu la faire a cause du taff. J'èspère que tu me croiras sinon t'en pis pour moi.
